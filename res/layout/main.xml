@@ -1,0 +1,12 @@
+<!--?xml version="1.0" encoding="utf-8"?-->  
+<linearlayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">  
+      
+    <textview android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="To Lock Screen First Enable it.." android:textsize="15sp"></textview>  
+          
+    <button android:id="@+id/lock" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Lock The Phone"></button>  
+          
+    <button android:id="@+id/btnEnable" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enable"></button>  
+          
+    <button android:id="@+id/btnDisable" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Disable"></button>  
+          
+</linearlayout>  
